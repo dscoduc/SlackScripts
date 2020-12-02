@@ -27,7 +27,7 @@
     "U123456789","U987654321" | .\Export-SlackUsers.ps1 -AuthorizationToken $AUTHTOKEN
 
 .Notes
-    Author  : chris.blankenship@rackspace.com
+    Author  : chris@dscoduc.com
     Date    : 11/17/2020
     Version : v1.0
 .Link 
